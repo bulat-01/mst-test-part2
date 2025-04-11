@@ -59,7 +59,7 @@ body {
   }
 
   .frag-1 video {
-    object-position: 50% 50%; /* левее */
+    object-position: 10% 50%; /* левее */
   }
   .frag-2 video {
     object-position: 30% 50%; /* чуть правее */
